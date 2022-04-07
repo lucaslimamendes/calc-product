@@ -1,1 +1,1 @@
-# calc-product
+## A API deve calcular o produtório de acordo com os parâmetros de entrada e resultar um JSON com o resultado final.
